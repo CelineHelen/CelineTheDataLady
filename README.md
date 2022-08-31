@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CelineTheDataLady
-- 👀 I’m interested in coding and data science applications!
+- 👀 I’m interested in geospatial processing, coding and data science applications!
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
